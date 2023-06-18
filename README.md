@@ -1,4 +1,7 @@
 # tboq
+
+Last updated 6/4/2021
+
 "tboq" was a malicious Tampermonkey script that scraped Discord tokens from the user's browser cache.
 
 On it's own, this script is harmless as it is not configured with an API endpoint to post the data to.
