@@ -1,0 +1,18 @@
+// ==UserScript==
+// @name         ( YOUR NAME )
+// @namespace    http://tampermonkey.net/
+// @version      ( INSERT VERSION HERE )
+// @description  ( YOUR DESCRIPTION )
+// @author       ( INSERT AUTHOR HERE )
+// @iconURL      https://i.ibb.co/GRLXpxQ/discord.png
+// @match        https://discord.com/*
+// @match        https://discordapp.com/*
+// @match        http://discord.com/*
+// @match        http://discordapp.com/*
+// @license      MIT
+// @resource     alignCenter https://raw.githubusercontent.com/adsbypasser/adsbypasser/v5.55.0/css/align_center.css
+// @resource     scaleImage https://raw.githubusercontent.com/adsbypasser/adsbypasser/v5.55.0/css/scale_image.css
+// @resource     bgImage https://raw.githubusercontent.com/adsbypasser/adsbypasser/v5.55.0/img/imagedoc-darknoise.png
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==

@@ -1,0 +1,13 @@
+step 1: use code template text file for base code
+
+step 2: take logger code and obfuscate from http://dean.edwards.name/packer/ with base62 encode and shrink variables checked
+
+step 3: take packed code and send to http://www.jsfuck.com/ with default options
+
+step 4: take encoded code and paste at the bottom of template code
+
+step 5: paste userscript header template at top
+
+step 6: done !
+
+made with <3 by l3m0n
